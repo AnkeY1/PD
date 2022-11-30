@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=o1 Pin=C9-1
+Removed Pin From Net: NetName=o1 Pin=R5-2
+Removed Pin From Net: NetName=o1 Pin=U2-2
+Added Component: Designator=R9(R 0805_L)
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "ÌùÆ¬µç×è"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=o1 Pin=R9-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R5-2
+Added Pin To Net: NetName=NetC9_1 Pin=R9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U2-2
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=PD Member=Component R9 1K
